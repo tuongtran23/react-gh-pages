@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.e602b169.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.3dde2054.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.3dde2054.chunk.js.map",
+    "main.js": "/react-gh-pages/static/js/main.0e9f16b3.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.0e9f16b3.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.9b84b881.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.9b84b881.js.map",
     "static/css/2.0b996581.chunk.css": "/react-gh-pages/static/css/2.0b996581.chunk.css",
-    "static/js/2.2e6482f9.chunk.js": "/react-gh-pages/static/js/2.2e6482f9.chunk.js",
-    "static/js/2.2e6482f9.chunk.js.map": "/react-gh-pages/static/js/2.2e6482f9.chunk.js.map",
+    "static/js/2.3b2b2d05.chunk.js": "/react-gh-pages/static/js/2.3b2b2d05.chunk.js",
+    "static/js/2.3b2b2d05.chunk.js.map": "/react-gh-pages/static/js/2.3b2b2d05.chunk.js.map",
     "static/js/3.7f225d02.chunk.js": "/react-gh-pages/static/js/3.7f225d02.chunk.js",
     "static/js/3.7f225d02.chunk.js.map": "/react-gh-pages/static/js/3.7f225d02.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
     "static/css/2.0b996581.chunk.css.map": "/react-gh-pages/static/css/2.0b996581.chunk.css.map",
     "static/css/main.e602b169.chunk.css.map": "/react-gh-pages/static/css/main.e602b169.chunk.css.map",
-    "static/js/2.2e6482f9.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.2e6482f9.chunk.js.LICENSE.txt",
+    "static/js/2.3b2b2d05.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.3b2b2d05.chunk.js.LICENSE.txt",
     "static/media/index.css": "/react-gh-pages/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.a6dca99d.svg": "/react-gh-pages/static/media/adobe-xd.a6dca99d.svg",
     "static/media/adobeaudition.afa937d5.svg": "/react-gh-pages/static/media/adobeaudition.afa937d5.svg",
@@ -106,6 +106,7 @@
     "static/media/mysql.f9e45d29.svg": "/react-gh-pages/static/media/mysql.f9e45d29.svg",
     "static/media/nextJS.fc272ac2.svg": "/react-gh-pages/static/media/nextJS.fc272ac2.svg",
     "static/media/nginx.14c0011a.svg": "/react-gh-pages/static/media/nginx.14c0011a.svg",
+    "static/media/nodejs-icon.615ffbea.svg": "/react-gh-pages/static/media/nodejs-icon.615ffbea.svg",
     "static/media/numpy.5bdfa40b.svg": "/react-gh-pages/static/media/numpy.5bdfa40b.svg",
     "static/media/nuxtJS.81cb52af.svg": "/react-gh-pages/static/media/nuxtJS.81cb52af.svg",
     "static/media/one.a3146128.svg": "/react-gh-pages/static/media/one.a3146128.svg",
@@ -134,6 +135,8 @@
     "static/media/six.bd765919.svg": "/react-gh-pages/static/media/six.bd765919.svg",
     "static/media/sketch.87c83552.svg": "/react-gh-pages/static/media/sketch.87c83552.svg",
     "static/media/slick-theme.css": "/react-gh-pages/static/media/slick.c94f7671.ttf",
+    "static/media/spring-boot.42e2e41e.svg": "/react-gh-pages/static/media/spring-boot.42e2e41e.svg",
+    "static/media/spring.d458b350.svg": "/react-gh-pages/static/media/spring.d458b350.svg",
     "static/media/strapi.ac0a6e67.svg": "/react-gh-pages/static/media/strapi.ac0a6e67.svg",
     "static/media/svelte.7b116dd5.svg": "/react-gh-pages/static/media/svelte.7b116dd5.svg",
     "static/media/swift.a030128a.svg": "/react-gh-pages/static/media/swift.a030128a.svg",
@@ -155,8 +158,8 @@
   "entrypoints": [
     "static/js/runtime-main.9b84b881.js",
     "static/css/2.0b996581.chunk.css",
-    "static/js/2.2e6482f9.chunk.js",
+    "static/js/2.3b2b2d05.chunk.js",
     "static/css/main.e602b169.chunk.css",
-    "static/js/main.3dde2054.chunk.js"
+    "static/js/main.0e9f16b3.chunk.js"
   ]
 }
